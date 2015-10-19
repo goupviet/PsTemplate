@@ -4,7 +4,6 @@ A starter Photoshop website template.
 
 ## Grid System
 
-| First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
