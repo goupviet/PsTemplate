@@ -4,9 +4,9 @@ A starter Photoshop website template.
 
 ## Grid System
 
-**Width** 1110px
-**Columns** 12
-**Gutters** 30px
+- **Width** 1110px
+- **Columns** 12
+- **Gutters** 30px
 
 ## Directory Structure
 
